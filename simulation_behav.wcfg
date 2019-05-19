@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="simulation_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="simulation" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="99543000fs"></ZoomStartTime>
+      <ZoomEndTime time="102285001fs"></ZoomEndTime>
+      <Cursor1Time time="100000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="128"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/simulation/HIGH" type="logic">
+      <obj_property name="ElementShortName">HIGH</obj_property>
+      <obj_property name="ObjectShortName">HIGH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/LOW" type="logic">
+      <obj_property name="ElementShortName">LOW</obj_property>
+      <obj_property name="ObjectShortName">LOW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/M2" type="logic">
+      <obj_property name="ElementShortName">M2</obj_property>
+      <obj_property name="ObjectShortName">M2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/M1" type="logic">
+      <obj_property name="ElementShortName">M1</obj_property>
+      <obj_property name="ObjectShortName">M1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/M0" type="logic">
+      <obj_property name="ElementShortName">M0</obj_property>
+      <obj_property name="ObjectShortName">M0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Cin_0" type="logic">
+      <obj_property name="ElementShortName">Cin_0</obj_property>
+      <obj_property name="ObjectShortName">Cin_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/A_0" type="logic">
+      <obj_property name="ElementShortName">A_0</obj_property>
+      <obj_property name="ObjectShortName">A_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/B_0" type="logic">
+      <obj_property name="ElementShortName">B_0</obj_property>
+      <obj_property name="ObjectShortName">B_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/A_1" type="logic">
+      <obj_property name="ElementShortName">A_1</obj_property>
+      <obj_property name="ObjectShortName">A_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/B_1" type="logic">
+      <obj_property name="ElementShortName">B_1</obj_property>
+      <obj_property name="ObjectShortName">B_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/A_2" type="logic">
+      <obj_property name="ElementShortName">A_2</obj_property>
+      <obj_property name="ObjectShortName">A_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/B_2" type="logic">
+      <obj_property name="ElementShortName">B_2</obj_property>
+      <obj_property name="ObjectShortName">B_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/A_3" type="logic">
+      <obj_property name="ElementShortName">A_3</obj_property>
+      <obj_property name="ObjectShortName">A_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/B_3" type="logic">
+      <obj_property name="ElementShortName">B_3</obj_property>
+      <obj_property name="ObjectShortName">B_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Z_0" type="logic">
+      <obj_property name="ElementShortName">Z_0</obj_property>
+      <obj_property name="ObjectShortName">Z_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Y_0" type="logic">
+      <obj_property name="ElementShortName">Y_0</obj_property>
+      <obj_property name="ObjectShortName">Y_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Y_1" type="logic">
+      <obj_property name="ElementShortName">Y_1</obj_property>
+      <obj_property name="ObjectShortName">Y_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Y_2" type="logic">
+      <obj_property name="ElementShortName">Y_2</obj_property>
+      <obj_property name="ObjectShortName">Y_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/Y_3" type="logic">
+      <obj_property name="ElementShortName">Y_3</obj_property>
+      <obj_property name="ObjectShortName">Y_3</obj_property>
+   </wvobject>
+</wave_config>
